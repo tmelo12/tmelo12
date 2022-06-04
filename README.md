@@ -4,9 +4,9 @@
 #### - 🐾 Desenvolvedor do app HelPets (orgulhoso disso)
 
 <div>
-  <a href="https://github.com/tbgdmelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tbgdmelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tbgdmelo&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/tmelo12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tmelo12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmelo12&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -29,5 +29,5 @@
   <a href="https://twitter.com/thidemello" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://facebook.com/thiago.braga.3939" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/tbgdmelo/tbgdmelo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/tmelo12/tmelo12/blob/output/github-contribution-grid-snake.svg)
 </div>
