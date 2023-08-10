@@ -1,5 +1,5 @@
 ## Salveeee! 👋
-#### - 🎓 Granduando de Engenharia de Software em Universidade Federal do Amazonas - UFAM
+#### - 🎓 Bacharel em Engenharia de Software em Universidade Federal do Amazonas - UFAM
 #### - 🖤 Amante da programação Web e as vezes da mobile
 
 <div>
