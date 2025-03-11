@@ -1,6 +1,6 @@
 ## Salveeee! 👋
 #### - 🎓 Bacharel em Engenharia de Software - Universidade Federal do Amazonas - UFAM
-#### - 🖤 Amante da programação Web e as vezes da mobile
+#### - Programação Web e as vezes mobile
 
 <div>
   <a href="https://github.com/tmelo12">
